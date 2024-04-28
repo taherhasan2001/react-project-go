@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-project-go/static/css/main.bec51e6b.css",
+    "main.js": "/react-project-go/static/js/main.b192d081.js",
+    "static/js/453.09d18746.chunk.js": "/react-project-go/static/js/453.09d18746.chunk.js",
+    "static/media/facebookLogo.png": "/react-project-go/static/media/facebookLogo.790642551cd99bb66a7e.png",
+    "index.html": "/react-project-go/index.html",
+    "main.bec51e6b.css.map": "/react-project-go/static/css/main.bec51e6b.css.map",
+    "main.b192d081.js.map": "/react-project-go/static/js/main.b192d081.js.map",
+    "453.09d18746.chunk.js.map": "/react-project-go/static/js/453.09d18746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec51e6b.css",
+    "static/js/main.b192d081.js"
+  ]
+}
